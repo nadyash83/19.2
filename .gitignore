@@ -11,5 +11,7 @@
 pyvenv.cfg
 .venv
 .env
+.idea
+/config/__pycache__/
 pip-selfcheck.json
 
